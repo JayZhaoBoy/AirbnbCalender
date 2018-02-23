@@ -1,4 +1,5 @@
 # AirbnbCalender
 A calender mock airbnb
 
-![demo](https://github.com/JayZhaoBoy/AirbnbCalender/blob/master/calender.gif){:height="50%" width="50%"}
+<img src="https://github.com/JayZhaoBoy/AirbnbCalender/blob/master/calender.gif" width="50%" height="50%">
+
